@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localizaciones>
+    <localizacion>
+        <id>1</id>
+        <titulo>Black Bull Burger</titulo>
+        <fragmento>+34960482514</fragmento>
+        <etiqueta>restaurante</etiqueta>
+        <latitud>39.426012090856666</latitud>
+        <longitud>-0.4818349595126137</longitud>
+    </localizacion>
+    <localizacion>
+        <id>2</id>
+        <titulo>TGB</titulo>
+        <fragmento>+34963558343</fragmento>
+        <etiqueta>restaurante</etiqueta>
+        <latitud>39.431942881386775</latitud>
+        <longitud>-0.4729663062372054</longitud>
+    </localizacion>
+    <localizacion>
+        <id>3</id>
+        <titulo>The Fitzgerald Burger</titulo>
+        <fragmento>+34961560246</fragmento>
+        <etiqueta>restaurante</etiqueta>
+        <latitud>39.42698701350027</latitud>
+        <longitud>-0.48127827300563025</longitud>
+    </localizacion>
+    <localizacion>
+        <id>4</id>
+        <titulo>Dominos Pizza</titulo>
+        <fragmento>+34961561515</fragmento>
+        <etiqueta>restaurante</etiqueta>
+        <latitud>39.42907970506507</latitud>
+        <longitud>-0.46994827485516755</longitud>
+    </localizacion>
+    <localizacion>
+        <id>5</id>
+        <titulo>Saona</titulo>
+        <fragmento>+34961529633</fragmento>
+        <etiqueta>restaurante</etiqueta>
+        <latitud>39.428268010300684</latitud>
+        <longitud>-0.4782539153342872</longitud>
+    </localizacion>
+    <localizacion>
+        <id>6</id>
+        <titulo>Mercadona</titulo>
+        <fragmento>https://www.mercadona.es/</fragmento>
+        <etiqueta>comercio</etiqueta>
+        <latitud>39.43444779311255</latitud>
+        <longitud>-0.4798643229262609</longitud>
+    </localizacion>
+    <localizacion>
+        <id>7</id>
+        <titulo>Consum</titulo>
+        <fragmento>https://tienda.consum.es/</fragmento>
+        <etiqueta>comercio</etiqueta>
+        <latitud>39.425165710603785</latitud>
+        <longitud>-0.4687921656077599</longitud>
+    </localizacion>
+    <localizacion>
+        <id>8</id>
+        <titulo>Family Cash</titulo>
+        <fragmento>https://www.familycash.es/</fragmento>
+        <etiqueta>comercio</etiqueta>
+        <latitud>39.42062386313653</latitud>
+        <longitud>-0.5044741361026499</longitud>
+    </localizacion>
+    <localizacion>
+        <id>9</id>
+        <titulo>Ahorra Cash</titulo>
+        <fragmento>https://www.marca.com/</fragmento>
+        <etiqueta>comercio</etiqueta>
+        <latitud>39.43015522740741</latitud>
+        <longitud>-0.4756603595125283</longitud>
+    </localizacion>
+    <localizacion>
+        <id>10</id>
+        <titulo>Charter</titulo>
+        <fragmento>https://charter-torrent-estacion-antigua.negocio.site/</fragmento>
+        <etiqueta>comercio</etiqueta>
+        <latitud>39.43681920276724</latitud>
+        <longitud>-0.461032944169794</longitud>
+    </localizacion>
+</localizaciones>

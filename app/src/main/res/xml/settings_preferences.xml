@@ -1,0 +1,28 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory
+        android:key="notificaciones"
+        android:title="Primera opción">
+
+        <SwitchPreference
+            android:defaultValue="true"
+            android:key="switch_preference_notificaciones"
+            android:title="Activar notificaciones" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:key="persistencia"
+        android:title="Segunda opción">
+
+        <ListPreference
+            android:entries="@array/persistencia"
+            android:entryValues="@array/persistencia"
+            android:defaultValue="0"
+            android:key="list_preference_persistencia"
+            android:title="Tipo de persistencia" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
